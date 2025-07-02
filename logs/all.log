@@ -60,3 +60,285 @@
 2025-07-01 16:29:58:2958 [37mdebug[39m: [37mServer is up and running @ http://localhost:3030[39m
 2025-07-01 16:30:00:300 [37mdebug[39m: [37mServer is up and running @ http://localhost:3030[39m
 2025-07-01 16:30:36:3036 [37mdebug[39m: [37mServer is up and running @ http://localhost:3030[39m
+2025-07-01 16:58:20:5820 [35mhttp[39m: [35mGET / 404 139 - 3.934 ms[39m
+[35m[39m
+2025-07-02 08:40:00:400 [35mhttp[39m: [35mGET /logger 304 - - 2.744 ms[39m
+[35m[39m
+2025-07-02 08:40:00:400 [35mhttp[39m: [35mGET /favicon.ico 404 150 - 4.848 ms[39m
+[35m[39m
+2025-07-02 08:40:29:4029 [35mhttp[39m: [35mGET /auth/register 404 152 - 3.353 ms[39m
+[35m[39m
+2025-07-02 08:40:39:4039 [35mhttp[39m: [35mPOST /auth/register 404 153 - 1.293 ms[39m
+[35m[39m
+2025-07-02 08:41:01:411 [35mhttp[39m: [35mPOST /auth/register 201 42 - 2.620 ms[39m
+[35m[39m
+2025-07-02 08:41:19:4119 [35mhttp[39m: [35mPOST /auth/register 500 33 - 2.353 ms[39m
+[35m[39m
+2025-07-02 08:41:20:4120 [35mhttp[39m: [35mPOST /auth/register 500 33 - 0.596 ms[39m
+[35m[39m
+2025-07-02 08:41:21:4121 [35mhttp[39m: [35mPOST /auth/register 500 33 - 0.768 ms[39m
+[35m[39m
+2025-07-02 08:42:10:4210 [35mhttp[39m: [35mPOST /auth/register 500 1276 - 7.111 ms[39m
+[35m[39m
+2025-07-02 08:42:13:4213 [35mhttp[39m: [35mPOST /auth/register 500 1276 - 1.490 ms[39m
+[35m[39m
+2025-07-02 08:42:21:4221 [35mhttp[39m: [35mPOST /auth/register 500 1276 - 1.192 ms[39m
+[35m[39m
+2025-07-02 08:43:09:439 [35mhttp[39m: [35mPOST /auth/register 500 65 - 7.202 ms[39m
+[35m[39m
+2025-07-02 08:43:11:4311 [35mhttp[39m: [35mPOST /auth/register 500 65 - 1.674 ms[39m
+[35m[39m
+2025-07-02 08:43:28:4328 [35mhttp[39m: [35mPOST /auth/register 201 42 - 2.427 ms[39m
+[35m[39m
+2025-07-02 08:46:09:469 [35mhttp[39m: [35mPOST /auth/register 404 153 - 2.811 ms[39m
+[35m[39m
+2025-07-02 08:46:13:4613 [35mhttp[39m: [35mPOST /auth/register 404 153 - 0.759 ms[39m
+[35m[39m
+2025-07-02 08:46:17:4617 [35mhttp[39m: [35mPOST /user/register 201 42 - 1.541 ms[39m
+[35m[39m
+2025-07-02 08:49:20:4920 [35mhttp[39m: [35mPOST /user/login 200 41 - 2.514 ms[39m
+[35m[39m
+2025-07-02 08:55:12:5512 [35mhttp[39m: [35mGET /product/create 404 153 - 2.798 ms[39m
+[35m[39m
+2025-07-02 08:55:19:5519 [35mhttp[39m: [35mGET /user/login 404 149 - 1.453 ms[39m
+[35m[39m
+2025-07-02 08:55:23:5523 [35mhttp[39m: [35mGET /user/login 404 149 - 0.967 ms[39m
+[35m[39m
+2025-07-02 08:55:27:5527 [35mhttp[39m: [35mPOST /user/login 200 41 - 1.568 ms[39m
+[35m[39m
+2025-07-02 09:02:05:25 [35mhttp[39m: [35mPOST /user/login 404 150 - 3.571 ms[39m
+[35m[39m
+2025-07-02 09:02:11:211 [35mhttp[39m: [35mPOST /api/user/login 404 154 - 1.035 ms[39m
+[35m[39m
+2025-07-02 09:02:26:226 [35mhttp[39m: [35mPOST /api/user/login 200 41 - 3.479 ms[39m
+[35m[39m
+2025-07-02 09:09:54:954 [35mhttp[39m: [35mPOST /api/user/login 400 - - 6.285 ms[39m
+[35m[39m
+2025-07-02 09:10:09:109 [35mhttp[39m: [35mPOST /api/user/login 400 - - 0.658 ms[39m
+[35m[39m
+2025-07-02 09:18:50:1850 [35mhttp[39m: [35mPOST /api/user/login 400 - - 2.558 ms[39m
+[35m[39m
+2025-07-02 09:18:51:1851 [35mhttp[39m: [35mPOST /api/user/login 400 - - 0.638 ms[39m
+[35m[39m
+2025-07-02 09:19:21:1921 [35mhttp[39m: [35mPOST /api/user/login 400 - - 5.018 ms[39m
+[35m[39m
+2025-07-02 09:19:22:1922 [35mhttp[39m: [35mPOST /api/user/login 400 - - 1.525 ms[39m
+[35m[39m
+2025-07-02 09:19:28:1928 [35mhttp[39m: [35mGET / 404 139 - 2.082 ms[39m
+[35m[39m
+2025-07-02 09:19:51:1951 [35mhttp[39m: [35mPOST /api/user/register 500 84 - 5.263 ms[39m
+[35m[39m
+2025-07-02 09:27:46:2746 [35mhttp[39m: [35mPOST /api/user/register 500 84 - 9.970 ms[39m
+[35m[39m
+2025-07-02 09:28:14:2814 [35mhttp[39m: [35mPOST /api/user/register 201 231 - 137.474 ms[39m
+[35m[39m
+2025-07-02 09:36:19:3619 [35mhttp[39m: [35mPOST /api/user/register 201 231 - 95.951 ms[39m
+[35m[39m
+2025-07-02 09:36:26:3626 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 85.309 ms[39m
+[35m[39m
+2025-07-02 09:43:08:438 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 6.526 ms[39m
+[35m[39m
+2025-07-02 09:48:18:4818 [35mhttp[39m: [35mPOST /api/user/login 400 182 - 9.313 ms[39m
+[35m[39m
+2025-07-02 09:48:20:4820 [35mhttp[39m: [35mPOST /api/user/login 400 182 - 1.200 ms[39m
+[35m[39m
+2025-07-02 09:48:41:4841 [35mhttp[39m: [35mPOST /user/register 404 153 - 2.761 ms[39m
+[35m[39m
+2025-07-02 09:48:48:4848 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 0.987 ms[39m
+[35m[39m
+2025-07-02 09:48:53:4853 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 1.101 ms[39m
+[35m[39m
+2025-07-02 09:48:58:4858 [35mhttp[39m: [35mPOST /api/user/register 201 231 - 106.098 ms[39m
+[35m[39m
+2025-07-02 09:49:07:497 [35mhttp[39m: [35mPOST /api/user/login 200 415 - 82.839 ms[39m
+[35m[39m
+2025-07-02 09:51:33:5133 [35mhttp[39m: [35mPOST /api/product/create 401 - - 3.066 ms[39m
+[35m[39m
+2025-07-02 09:51:51:5151 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 29.295 ms[39m
+[35m[39m
+2025-07-02 09:51:56:5156 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 5.417 ms[39m
+[35m[39m
+2025-07-02 09:51:57:5157 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 4.458 ms[39m
+[35m[39m
+2025-07-02 09:52:01:521 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 4.304 ms[39m
+[35m[39m
+2025-07-02 09:52:02:522 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 6.579 ms[39m
+[35m[39m
+2025-07-02 09:52:04:524 [35mhttp[39m: [35mPOST /api/user/login 400 182 - 2.571 ms[39m
+[35m[39m
+2025-07-02 09:52:07:527 [35mhttp[39m: [35mPOST /api/user/login 500 42 - 4.538 ms[39m
+[35m[39m
+2025-07-02 09:53:33:5333 [35mhttp[39m: [35mPOST /api/user/login 500 119 - 4.335 ms[39m
+[35m[39m
+2025-07-02 09:53:38:5338 [35mhttp[39m: [35mPOST /api/user/login 500 119 - 1.358 ms[39m
+[35m[39m
+2025-07-02 09:53:53:5353 [35mhttp[39m: [35mPOST /api/user/register 500 119 - 1.467 ms[39m
+[35m[39m
+2025-07-02 09:54:42:5442 [35mhttp[39m: [35mPOST /api/user/register 500 119 - 1.012 ms[39m
+[35m[39m
+2025-07-02 09:54:43:5443 [35mhttp[39m: [35mPOST /api/user/register 500 119 - 1.107 ms[39m
+[35m[39m
+2025-07-02 09:55:01:551 [35mhttp[39m: [35mPOST /api/user/register 500 119 - 5.248 ms[39m
+[35m[39m
+2025-07-02 09:56:10:5610 [35mhttp[39m: [35mPOST /api/user/register 201 231 - 94.927 ms[39m
+[35m[39m
+2025-07-02 09:56:19:5619 [35mhttp[39m: [35mPOST /api/user/login 200 415 - 81.623 ms[39m
+[35m[39m
+2025-07-02 09:56:31:5631 [35mhttp[39m: [35mPOST /api/product/create 401 - - 0.721 ms[39m
+[35m[39m
+2025-07-02 09:56:41:5641 [35mhttp[39m: [35mPOST /api/product/create 201 42 - 20.671 ms[39m
+[35m[39m
+2025-07-02 10:13:38:1338 [35mhttp[39m: [35mPOST /wish-list/add 404 153 - 5.441 ms[39m
+[35m[39m
+2025-07-02 10:14:03:143 [35mhttp[39m: [35mPOST /wish-list/add 404 153 - 0.564 ms[39m
+[35m[39m
+2025-07-02 10:14:04:144 [35mhttp[39m: [35mPOST /wish-list/add 404 153 - 0.820 ms[39m
+[35m[39m
+2025-07-02 10:14:25:1425 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 33.687 ms[39m
+[35m[39m
+2025-07-02 10:15:08:158 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 23.866 ms[39m
+[35m[39m
+2025-07-02 10:16:25:1625 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 16.987 ms[39m
+[35m[39m
+2025-07-02 10:17:17:1717 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 17.224 ms[39m
+[35m[39m
+2025-07-02 10:22:20:2220 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 17.634 ms[39m
+[35m[39m
+2025-07-02 10:23:33:2333 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 17.777 ms[39m
+[35m[39m
+2025-07-02 10:23:46:2346 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 17.749 ms[39m
+[35m[39m
+2025-07-02 10:24:42:2442 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 15.692 ms[39m
+[35m[39m
+2025-07-02 10:25:33:2533 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 24.564 ms[39m
+[35m[39m
+2025-07-02 10:25:36:2536 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 4.953 ms[39m
+[35m[39m
+2025-07-02 10:28:19:2819 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 18.411 ms[39m
+[35m[39m
+2025-07-02 10:28:42:2842 [35mhttp[39m: [35mPOST /api/wishlist/add 201 44 - 15.582 ms[39m
+[35m[39m
+2025-07-02 10:40:35:4035 [35mhttp[39m: [35mPOST /api/product/create 500 92 - 25.385 ms[39m
+[35m[39m
+2025-07-02 10:40:46:4046 [35mhttp[39m: [35mPOST /api/product/create 500 180 - 162.749 ms[39m
+[35m[39m
+2025-07-02 10:42:06:426 [35mhttp[39m: [35mPOST /api/product/create 201 203 - 39.929 ms[39m
+[35m[39m
+2025-07-02 10:42:23:4223 [35mhttp[39m: [35mPOST /api/product/create 201 201 - 37.146 ms[39m
+[35m[39m
+2025-07-02 10:42:33:4233 [35mhttp[39m: [35mGET /product/get-list 404 155 - 1.221 ms[39m
+[35m[39m
+2025-07-02 10:42:41:4241 [35mhttp[39m: [35mGET /api/product/get-list 404 159 - 2.158 ms[39m
+[35m[39m
+2025-07-02 10:42:50:4250 [35mhttp[39m: [35mGET /api/product/list 200 353 - 13.740 ms[39m
+[35m[39m
+2025-07-02 10:43:30:4330 [35mhttp[39m: [35mPOST /product/delete 404 154 - 1.637 ms[39m
+[35m[39m
+2025-07-02 10:43:37:4337 [35mhttp[39m: [35mPOST /api/product/delete 404 158 - 1.642 ms[39m
+[35m[39m
+2025-07-02 10:43:53:4353 [35mhttp[39m: [35mPUT /api/product/update 404 157 - 1.230 ms[39m
+[35m[39m
+2025-07-02 10:44:26:4426 [35mhttp[39m: [35mPUT /api/product/update 404 157 - 0.365 ms[39m
+[35m[39m
+2025-07-02 10:44:27:4427 [35mhttp[39m: [35mPUT /api/product/update 404 157 - 0.388 ms[39m
+[35m[39m
+2025-07-02 10:44:35:4435 [35mhttp[39m: [35mPOST /api/product/update 401 - - 0.856 ms[39m
+[35m[39m
+2025-07-02 10:44:44:4444 [35mhttp[39m: [35mPOST /api/product/update 200 203 - 63.619 ms[39m
+[35m[39m
+2025-07-02 10:44:51:4451 [35mhttp[39m: [35mGET /api/product/list 200 350 - 3.815 ms[39m
+[35m[39m
+2025-07-02 10:44:56:4456 [35mhttp[39m: [35mDELETE /api/product/delete 401 - - 0.478 ms[39m
+[35m[39m
+2025-07-02 10:45:05:455 [35mhttp[39m: [35mDELETE /api/product/delete 200 42 - 33.519 ms[39m
+[35m[39m
+2025-07-02 10:45:10:4510 [35mhttp[39m: [35mGET /api/product/list 200 194 - 3.460 ms[39m
+[35m[39m
+2025-07-02 10:46:15:4615 [35mhttp[39m: [35mDELETE /api/product/delete 500 45 - 24.316 ms[39m
+[35m[39m
+2025-07-02 10:46:33:4633 [35mhttp[39m: [35mDELETE /api/product/delete 500 45 - 29.777 ms[39m
+[35m[39m
+2025-07-02 10:46:37:4637 [35mhttp[39m: [35mPOST /api/product/create 201 201 - 39.321 ms[39m
+[35m[39m
+2025-07-02 10:47:25:4725 [35mhttp[39m: [35mPOST /api/user/login 400 207 - 6.253 ms[39m
+[35m[39m
+2025-07-02 10:47:27:4727 [35mhttp[39m: [35mPOST /api/user/login 400 207 - 1.383 ms[39m
+[35m[39m
+2025-07-02 10:47:32:4732 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 117.647 ms[39m
+[35m[39m
+2025-07-02 10:47:36:4736 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 225.514 ms[39m
+[35m[39m
+2025-07-02 10:47:41:4741 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 1.199 ms[39m
+[35m[39m
+2025-07-02 10:48:22:4822 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 6.251 ms[39m
+[35m[39m
+2025-07-02 10:48:44:4844 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 6.456 ms[39m
+[35m[39m
+2025-07-02 10:48:46:4846 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 1.504 ms[39m
+[35m[39m
+2025-07-02 10:48:47:4847 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 0.720 ms[39m
+[35m[39m
+2025-07-02 10:48:52:4852 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 95.088 ms[39m
+[35m[39m
+2025-07-02 10:48:56:4856 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 81.992 ms[39m
+[35m[39m
+2025-07-02 10:49:00:490 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 0.703 ms[39m
+[35m[39m
+2025-07-02 10:49:44:4944 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 0.744 ms[39m
+[35m[39m
+2025-07-02 10:49:48:4948 [35mhttp[39m: [35mPOST /api/user/register 400 183 - 0.518 ms[39m
+[35m[39m
+2025-07-02 10:49:53:4953 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 101.410 ms[39m
+[35m[39m
+2025-07-02 10:50:02:502 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 95.583 ms[39m
+[35m[39m
+2025-07-02 10:50:04:504 [35mhttp[39m: [35mPOST /api/user/register 500 44 - 82.098 ms[39m
+[35m[39m
+2025-07-02 10:50:41:5041 [35mhttp[39m: [35mPOST /api/user/register 500 51 - 16.614 ms[39m
+[35m[39m
+2025-07-02 10:50:43:5043 [35mhttp[39m: [35mPOST /api/user/register 500 51 - 4.744 ms[39m
+[35m[39m
+2025-07-02 10:50:50:5050 [35mhttp[39m: [35mPOST /api/user/login 200 415 - 83.272 ms[39m
+[35m[39m
+2025-07-02 11:03:33:333 [35mhttp[39m: [35mPOST /api/wishlist/add 401 - - 4.909 ms[39m
+[35m[39m
+2025-07-02 11:03:39:339 [35mhttp[39m: [35mPOST /api/user/login 200 415 - 107.471 ms[39m
+[35m[39m
+2025-07-02 11:05:29:529 [35mhttp[39m: [35mPOST /api/wishlist/add 201 251 - 35.587 ms[39m
+[35m[39m
+2025-07-02 11:06:11:611 [35mhttp[39m: [35mGET /api/wishlist/list 401 - - 2.388 ms[39m
+[35m[39m
+2025-07-02 11:06:18:618 [35mhttp[39m: [35mGET /api/wishlist/list 200 47 - 38.293 ms[39m
+[35m[39m
+2025-07-02 11:06:39:639 [35mhttp[39m: [35mPOST /api/wishlist/add 201 251 - 26.152 ms[39m
+[35m[39m
+2025-07-02 11:07:16:716 [35mhttp[39m: [35mPOST /api/wishlist/add 201 251 - 57.032 ms[39m
+[35m[39m
+2025-07-02 11:07:25:725 [35mhttp[39m: [35mPOST /api/wishlist/add 201 401 - 12.721 ms[39m
+[35m[39m
+2025-07-02 11:08:19:819 [35mhttp[39m: [35mPOST /api/wishlist/add 500 45 - 41.207 ms[39m
+[35m[39m
+2025-07-02 11:08:20:820 [35mhttp[39m: [35mPOST /api/wishlist/add 500 45 - 17.775 ms[39m
+[35m[39m
+2025-07-02 11:08:23:823 [35mhttp[39m: [35mPOST /api/wishlist/add 201 401 - 16.310 ms[39m
+[35m[39m
+2025-07-02 11:08:37:837 [35mhttp[39m: [35mPOST /api/wishlist/add 201 401 - 27.888 ms[39m
+[35m[39m
+2025-07-02 11:08:40:840 [35mhttp[39m: [35mPOST /api/wishlist/add 201 401 - 15.002 ms[39m
+[35m[39m
+2025-07-02 11:08:46:846 [35mhttp[39m: [35mPOST /api/wishlist/add 201 401 - 14.714 ms[39m
+[35m[39m
+2025-07-02 11:09:14:914 [35mhttp[39m: [35mPOST /api/wishlist/add 201 787 - 39.753 ms[39m
+[35m[39m
+2025-07-02 11:09:18:918 [35mhttp[39m: [35mPOST /api/wishlist/add 201 787 - 14.257 ms[39m
+[35m[39m
+2025-07-02 11:09:29:929 [35mhttp[39m: [35mPOST /api/wishlist/add 500 110 - 19.220 ms[39m
+[35m[39m
+2025-07-02 11:09:47:947 [35mhttp[39m: [35mPOST /api/wishlist/add 201 237 - 30.909 ms[39m
+[35m[39m
+2025-07-02 11:10:05:105 [35mhttp[39m: [35mPOST /api/wishlist/add 201 237 - 25.306 ms[39m
+[35m[39m
+2025-07-02 11:10:13:1013 [35mhttp[39m: [35mPOST /api/wishlist/add 201 237 - 15.118 ms[39m
+[35m[39m
+2025-07-02 11:10:44:1044 [35mhttp[39m: [35mGET /api/wishlist/list 200 351 - 35.181 ms[39m
+[35m[39m

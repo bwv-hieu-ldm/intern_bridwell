@@ -13,8 +13,13 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
     "@types/express": "^5.0.3",
+    "@types/express-session": "^1.18.2",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^24.0.8",
+    "@types/passport-jwt": "^4.0.1",
+    "@types/passport-local": "^1.0.38",
     "dotenv": "^17.0.0",
     "eslint": "^9.30.0",
     "express": "^5.1.0",
@@ -27,10 +32,21 @@
   },
   "dependencies": {
     "@types/morgan": "^1.9.10",
+    "@types/sequelize": "^4.28.20",
+    "bcrypt": "^6.0.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
+    "express-session": "^1.18.1",
     "express-winston": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
     "mysql2": "^3.14.1",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0",
+    "reflect-metadata": "^0.2.2",
     "sequelize": "^6.37.7",
-    "winston": "^3.17.0"
+    "winston": "^3.17.0",
+    "yup": "^1.6.1"
   }
 }

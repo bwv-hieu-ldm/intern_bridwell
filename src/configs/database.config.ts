@@ -1,13 +1,12 @@
 import { Sequelize } from 'sequelize';
-
 const sequelize = new Sequelize({
-  host: process.env.DB_HOST,
+  host: process.env.DB_HOST ,
   dialect: 'mysql',
-  password: process.env.DB_PASSWORD,
+  password: "123",
   username: process.env.DB_USER,
-  database: process.env.DB_NAME,
+  database: "intern_briswell_database",
   logging: true,
-  port: parseInt(process.env.DB_PORT as string, 10),
+  port: 3306,
 });
 
 // Test the database connection
